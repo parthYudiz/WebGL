@@ -1,0 +1,6 @@
+{
+  "name": "3D Product Configurator Studio",
+  "description": "High-performance real-time 3D web product configurator with WebGL materials, dynamic geometry, lighting studio, C#/Unity inspector, and interactive annotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
